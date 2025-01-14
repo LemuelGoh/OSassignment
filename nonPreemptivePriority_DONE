@@ -21,7 +21,11 @@
 
 def get_process_input():
     processes = []
-    num_processes = int(input("Enter the number of processes: "))
+    num_processes = int(input("Enter the number of processes(3-10): "))
+
+    while num_processes < 3 or num_processes > 10:
+        print("Please enter a number between 3 and 10.")
+        num_processes = int(input("Enter the number of processes: "))
     
     for i in range(num_processes):
         print(f"Enter details for process {i+1}:")
