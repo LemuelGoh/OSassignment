@@ -1,0 +1,14 @@
+To run the desired Scheduling program:
+1)press the "exe files"
+2)Select the desired Scheduling method (eg.RoundRobin)
+To review the scipt:
+1)press the "python scipts"
+2)press on the desired script (you may want to use Visual Studio Code or Visual Studio for better visualization)
+
+
+This project is build for MMU : Operating System Assigment 
+From : TT2L GROUP3
+Members: 
+1)GOH CHUN YONG 241UC24158
+2)YEE SI SHUN 241UC24157
+3)CHEAH CHUN YONG 241UC2417G
